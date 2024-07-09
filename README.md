@@ -1,2 +1,1 @@
-
-![Blue and Yellow Neon Retro Pixel Art Game Night Game Presentation](https://github.com/damithaDananjaya17/DevOps/assets/159267886/efcc2404-69a8-4bec-b7e2-39236ddd44a6)
+![devops](https://github.com/damithaDananjaya17/DevOps/assets/159267886/9348cf97-cc05-41a0-af98-37a42e2137fa)
