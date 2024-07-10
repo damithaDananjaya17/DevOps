@@ -53,5 +53,16 @@ The dominant methodology was the Waterfall model, a linear approach where each s
 
 
 
+<span style="color: green"> Emergency of DevOps </span>  
+Emphasizing collaboration and communication between development and operations teams, the DevOps software development methodology did not appear overnight. Its roots can be traced back to several contributing factors and key turning points.
+
+
+- [x] Agile movement: The Agile movement, emerging in the 1990s and formally established in 2001, emphasized iterative development and collaboration, paving the way for DevOps' focus on faster delivery and team integration.
+- [x] Automation: The rise of automation tools throughout the software development lifecycle (SDLC) simplified manual tasks, allowing teams to focus on higher-level activities.
+- [x] Cloud computing: The emergence of cloud platforms provided a scalable and flexible environment for development and deployment, further facilitating collaboration and faster delivery.
+
+
+
+
 
 
