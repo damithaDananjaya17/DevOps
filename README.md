@@ -3,7 +3,7 @@
 
 DevOps (Development + Operations) is a set of practices, principles, and cultural philosophies that aim to enhance collaboration and communication between software development (Dev) and IT operations (Ops) teams. The primary goal is to automate and streamline the processes of software delivery and infrastructure changes, fostering a culture of continuous improvement and faster, more reliable releases.
 
-## A Simplified Analogy of DevOps
+ <code style="color : darkoranger"> A Simplified Analogy of DevOps </code>  
 
 Imagine you're a chef in a busy restaurant. You're responsible for creating delicious dishes,DevOps like the chef of the kitchen in the tech world.DevOps (Development + Operations) is the chef, focusing on creating new features and improvements. They're constantly innovating and experimenting, trying out new recipes and cooking techniques.
 
@@ -23,7 +23,7 @@ Imagine you're a chef in a busy restaurant. You're responsible for creating deli
      Analyzes the finished dish, identifies areas for improvement, and cleans up any leftovers (code or resources).
 
 
-# <code style="color : darkoranger"> Characteristics of the Pre-DevOps Era </code>
+ <code style="color : darkoranger"> Characteristics of the Pre-DevOps Era </code>
  The pre-DevOps era in software development was a starkly different landscape than what we see today. It was a time of siloed teams, rigid methodologies, and a lot of manual work, which often led to slow and unreliable software delivery.
 
 ## Here are some key characteristics of the pre-DevOps era:
