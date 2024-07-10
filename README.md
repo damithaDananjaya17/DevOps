@@ -120,7 +120,7 @@ Emphasizing collaboration and communication between development and operations t
 
 
 ## Tools in DevOps
-**Version Control** - <span style="color: darkorange">  GIT, Subversion, BitBucket, GitHub </span> 
+- **Version Control** - <span style="color: darkorange">  GIT, Subversion, BitBucket, GitHub </span> 
 
 - **Continuous Integration/Continuous Deployment (CI/CD)** – <span style="color: darkorange">  Jenkins, Travis CI, circle CI </span> 
 
