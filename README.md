@@ -13,8 +13,8 @@ DevOps (Development + Operations) is a set of practices, principles, and cultura
 Imagine you're a chef in a busy restaurant. You're responsible for creating delicious dishes,DevOps like the chef of the kitchen in the tech world.DevOps (Development + Operations) is the chef, focusing on creating new features and improvements. They're constantly innovating and experimenting, trying out new recipes and cooking techniques.
 
 
-> [!New Recipe Development]
->  Brainstorms new dishes, experiments with flavors and ingredients, and writes down the recipes (code).
+- New Recipe Development
+       Brainstorms new dishes, experiments with flavors and ingredients, and writes down the recipes (code).
 
 - New Recipe Development - 
        Brainstorms new dishes, experiments with flavors and ingredients, and writes down the recipes (code).
@@ -32,7 +32,7 @@ Imagine you're a chef in a busy restaurant. You're responsible for creating deli
      Analyzes the finished dish, identifies areas for improvement, and cleans up any leftovers (code or resources).
 
 
- <code style="color : darkoranger"> Characteristics of the Pre-DevOps Era </code>
+<span style="color: green"> Characteristics of the Pre-DevOps Era </span>  
  The pre-DevOps era in software development was a starkly different landscape than what we see today. It was a time of siloed teams, rigid methodologies, and a lot of manual work, which often led to slow and unreliable software delivery.
 
 ## Here are some key characteristics of the pre-DevOps era:
