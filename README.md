@@ -1,9 +1,11 @@
 ![devops](https://github.com/damithaDananjaya17/DevOps/assets/159267886/9348cf97-cc05-41a0-af98-37a42e2137fa)
-#### What is devops 
+# What is devops 
 
-DevOps (Development + Operations) is a set of practices, principles, and cultural philosophies that aim to enhance collaboration and communication between software development (Dev) and IT operations (Ops) teams. The primary goal is to automate and streamline the processes of software delivery and infrastructure changes, fostering a culture of continuous improvement and faster, more reliable releases.
+### DevOps (Development + Operations) is a set of practices, principles, and cultural philosophies that aim to enhance collaboration and communication between software development (Dev) and IT operations (Ops) teams. The primary goal is to automate andstreamline the processes of software delivery and infrastructure changes, fostering a culture of continuous improvement and faster, more reliable releases.
 
-
+***
+---
+___
 
 # A Simplified Analogy of DevOps
 
@@ -105,21 +107,21 @@ Emphasizing collaboration and communication between development and operations t
 ## Tools in DevOps
 **Version Control** - <span style="color: darkorange">  GIT, Subversion, BitBucket, GitHub </span> 
 
-**Continuous Integration/Continuous Deployment (CI/CD)** – <span style="color: darkorange">  Jenkins, Travis CI, circle CI </span> 
+- **Continuous Integration/Continuous Deployment (CI/CD)** – <span style="color: darkorange">  Jenkins, Travis CI, circle CI </span> 
 
-**Configuration Management** – <span style="color: darkorange">  Ansible, Chef, Puppet </span> 
+- **Configuration Management** – <span style="color: darkorange">  Ansible, Chef, Puppet </span> 
 
-**Containerization and Orchestration** –  <span style="color: darkorange">  Docker, Podman, LXC(linux Containers), Kubernetes, openShift, Apache Mesos </span> 
+- **Containerization and Orchestration** –  <span style="color: darkorange">  Docker, Podman, LXC(linux Containers), Kubernetes, openShift, Apache Mesos </span> 
 
-**Infrastructure as code (IaC)** - <span style="color: darkorange">  Terraform, AWS  CloudFormation, OpenTofu </span> 
+- **Infrastructure as code (IaC)** - <span style="color: darkorange">  Terraform, AWS  CloudFormation, OpenTofu </span> 
 
-**Continuous Monitoring** - <span style="color: darkorange">  Prometheus, Zabbix, Nagios, OpenNMS, Grafana </span> 
+- **Continuous Monitoring** - <span style="color: darkorange">  Prometheus, Zabbix, Nagios, OpenNMS, Grafana </span> 
 
-**Collaboration Community** – <span style="color: darkorange">  Slack, Microsoft Teams, Jira, Trello, Atlassian, Discord </span> 
+- **Collaboration Community** – <span style="color: darkorange">  Slack, Microsoft Teams, Jira, Trello, Atlassian, Discord </span> 
 
-**Logging (log management)** - <span style="color: darkorange">  ELK Stack, Fluentd, Splunk, DataDog </span>  
+- **Logging (log management)** - <span style="color: darkorange">  ELK Stack, Fluentd, Splunk, DataDog </span>  
 
-**Source code management(SCM)** – <span style="color: darkorange">  Bitbucket, Gitlab, GitHub </span> 
+- **Source code management(SCM)** – <span style="color: darkorange">  Bitbucket, Gitlab, GitHub </span> 
  
 These tools, along with many others, form an ecosystem that supports the principles of DevOps, facilitating collaboration, automation, and efficiency throughout the software development lifecycle. It's essential to choose tools based on your specific needs, the technologies you use, and your team's preferences.
 
