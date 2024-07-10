@@ -3,9 +3,10 @@
 
 ### DevOps (Development + Operations) is a set of practices, principles, and cultural philosophies that aim to enhance collaboration and communication between software development (Dev) and IT operations (Ops) teams. The primary goal is to automate andstreamline the processes of software delivery and infrastructure changes, fostering a culture of continuous improvement and faster, more reliable releases.
 
-***
----
+
 ___
+
+
 
 # A Simplified Analogy of DevOps
 
@@ -29,6 +30,9 @@ ___
      Analyzes the finished dish, identifies areas for improvement, and cleans up any leftovers (code or resources).
 
  
+***
+
+
 
 # Characteristics of the Pre-DevOps Era 
 <span style="color: gray"> The pre-DevOps era in software development was a starkly different landscape than what we see today. It was a time of siloed teams, rigid methodologies, and a lot of manual work, which often led to slow and unreliable software delivery. </span>
@@ -51,7 +55,9 @@ ___
 
 
 
-<span style="color: darkorange"> </span>  
+***   
+
+
 
 ##  Emergency of DevOp
 Emphasizing collaboration and communication between development and operations teams, the DevOps software development methodology did not appear overnight. Its roots can be traced back to several contributing factors and key turning points. 
@@ -70,6 +76,8 @@ Emphasizing collaboration and communication between development and operations t
 
 
 
+***  
+
 
 ## Key Factors Contributing to the Emergence of DevOps
 -  Need for faster software delivery
@@ -82,6 +90,10 @@ Emphasizing collaboration and communication between development and operations t
 -  Cloud platforms offered scalability, flexibility, and access to shared resources, facilitating collaboration and faster deployments.
 
 
+ ***  
+
+
+ 
 # Key Principles of DevOps
 
 **Collaboration** - 
@@ -101,6 +113,9 @@ Emphasizing collaboration and communication between development and operations t
 
 **Monitoring and Feedback** - 
 >  DevOps emphasizes continuous monitoring of applications and infrastructure, providing real-time feedback to identify and address issues promptly. 
+
+
+***  
 
 
 
@@ -126,6 +141,11 @@ Emphasizing collaboration and communication between development and operations t
 These tools, along with many others, form an ecosystem that supports the principles of DevOps, facilitating collaboration, automation, and efficiency throughout the software development lifecycle. It's essential to choose tools based on your specific needs, the technologies you use, and your team's preferences.
 
 
+
+ ***  
+
+
+ 
 ## The Future of DevOps
 Here are some key trends and predictions shaping the future of DevOps
 
