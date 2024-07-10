@@ -7,10 +7,7 @@ DevOps (Development + Operations) is a set of practices, principles, and cultura
 
 # A Simplified Analogy of DevOps
 
-
-
-
-Imagine you're a chef in a busy restaurant. You're responsible for creating delicious dishes,DevOps like the chef of the kitchen in the tech world.DevOps (Development + Operations) is the chef, focusing on creating new features and improvements. They're constantly innovating and experimenting, trying out new recipes and cooking techniques.
+<span style="color: gray"> Imagine you're a chef in a busy restaurant. You're responsible for creating delicious dishes,DevOps like the chef of the kitchen in the tech world.DevOps (Development + Operations) is the chef, focusing on creating new features and improvements. They're constantly innovating and experimenting, trying out new recipes and cooking techniques.</span> 
 
 
 - New Recipe Development
@@ -32,7 +29,7 @@ Imagine you're a chef in a busy restaurant. You're responsible for creating deli
      Analyzes the finished dish, identifies areas for improvement, and cleans up any leftovers (code or resources).
 
 
-<span style="color: green"> Characteristics of the Pre-DevOps Era </span>  
+# Characteristics of the Pre-DevOps Era 
  The pre-DevOps era in software development was a starkly different landscape than what we see today. It was a time of siloed teams, rigid methodologies, and a lot of manual work, which often led to slow and unreliable software delivery.
 
 ## Here are some key characteristics of the pre-DevOps era:
@@ -53,7 +50,7 @@ The dominant methodology was the Waterfall model, a linear approach where each s
 
 
 
-<span style="color: green"> Emergency of DevOps </span>  
+<span style="color: darkorange"> Emergency of DevOps </span>  
 Emphasizing collaboration and communication between development and operations teams, the DevOps software development methodology did not appear overnight. Its roots can be traced back to several contributing factors and key turning points.
 
 
