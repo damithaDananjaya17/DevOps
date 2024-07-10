@@ -54,14 +54,18 @@ DevOps (Development + Operations) is a set of practices, principles, and cultura
 ##  Emergency of DevOp
 Emphasizing collaboration and communication between development and operations teams, the DevOps software development methodology did not appear overnight. Its roots can be traced back to several contributing factors and key turning points. 
 
-<span style="color: darkorange">  **Agile movement** -  </span> ![png-transparent-agile-project-management-agile-software-development-project-management-text-logo-business-removebg-preview](https://github.com/damithaDananjaya17/DevOps/assets/159267886/77541e95-0484-4951-b904-2539b8b4b123)
->  The Agile movement, emerging in the 1990s and formally established in 2001, emphasized iterative development and collaboration, paving the way for DevOps' focus on faster delivery and team integration.
+<span style="color: darkorange">  **Agile movement** -  </span> 
+>  The Agile movement, emerging in the 1990s and formally established in 2001, emphasized iterative development and collaboration, paving the way for DevOps' focus on faster delivery and team integration. ![Agile-PNG-HD-Isolated](https://github.com/damithaDananjaya17/DevOps/assets/159267886/28f58e85-900e-4ced-a4d7-652ccea12551)
 
-<span style="color: darkorange">  **Automation** -  </span> ![png-clipart-ci-cd-continuous-integration-continuous-delivery-computer-software-software-testing-automation-testing-blue-text-thumbnail-removebg-preview](https://github.com/damithaDananjaya17/DevOps/assets/159267886/d3898def-189f-4fe7-ad53-a407012928a3)
+<span style="color: darkorange">  **Automation** -  </span> 
 >  The rise of automation tools throughout the software development lifecycle (SDLC) simplified manual tasks, allowing teams to focus on higher-level activities.
+![531-5311750_web-application-development-automation-process-hd-png-download](https://github.com/damithaDananjaya17/DevOps/assets/159267886/13b0a1bf-114f-4894-b7c5-593beb2086f3)
 
-<span style="color: darkorange">  **Cloud computing** -  </span> ![kisspng-clip-art-computer-icons-cloud-computing-cloud-stor-student-services-division-of-information-technol-5b6d392e3eebf5 5711863515338847182577-removebg-preview](https://github.com/damithaDananjaya17/DevOps/assets/159267886/88e25b7a-fb89-461e-b78c-735b3d8cdc1b)
+
+<span style="color: darkorange">  **Cloud computing** -  </span> 
 >   The emergence of cloud platforms provided a scalable and flexible environment for development and deployment, further facilitating collaboration and faster delivery.
+![560-5602803_cloud-computing-png-free-pic-information-and-communication-removebg-preview](https://github.com/damithaDananjaya17/DevOps/assets/159267886/d201dc2e-eb47-4af5-a21c-930fc6a24424)
+
 
 
 
