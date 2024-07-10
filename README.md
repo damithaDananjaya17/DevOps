@@ -5,7 +5,7 @@ DevOps (Development + Operations) is a set of practices, principles, and cultura
 
 
  ```diff
-#  !  A Simplified Analogy of DevOps
+!  A Simplified Analogy of DevOps
 ```
 
 
