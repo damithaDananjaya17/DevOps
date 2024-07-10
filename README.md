@@ -1,4 +1,4 @@
-![devops](https://github.com/damithaDananjaya17/DevOps/assets/159267886/9348cf97-cc05-41a0-af98-37a42e2137fa)
+i![cover image](https://github.com/damithaDananjaya17/DevOps/assets/159267886/a6f6a087-c165-4eb1-a8d5-d734073050eb)
 # What is devops 
 
 ### DevOps (Development + Operations) is a set of practices, principles, and cultural philosophies that aim to enhance collaboration and communication between software development (Dev) and IT operations (Ops) teams. The primary goal is to automate andstreamline the processes of software delivery and infrastructure changes, fostering a culture of continuous improvement and faster, more reliable releases.
