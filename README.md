@@ -5,15 +5,10 @@ DevOps (Development + Operations) is a set of practices, principles, and cultura
 
 
  ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+#  !  A Simplified Analogy of DevOps
 ```
 
-$${\color{lightblue}Light \space Blue}$$
- <font color="green"> A Simplified Analogy of DevOps </font>
+
 
 Imagine you're a chef in a busy restaurant. You're responsible for creating delicious dishes,DevOps like the chef of the kitchen in the tech world.DevOps (Development + Operations) is the chef, focusing on creating new features and improvements. They're constantly innovating and experimenting, trying out new recipes and cooking techniques.
 
